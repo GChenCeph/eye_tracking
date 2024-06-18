@@ -18,4 +18,4 @@ The dataset used in this project is the Columbia Gaze Data Set. Due to the file 
 
 [Columbia Gaze Data Set](http://www.cs.columbia.edu/CAVE/databases/columbia_gaze/)
 
-Once downloaded, extract the contents and place them in the appropriate directory as described in the notebook.
+Once downloaded, place it in the appropriate directory and adjust the pathing in the notebook.

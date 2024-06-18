@@ -1,5 +1,3 @@
-# eye_tracking
-
 # Eye Tracking Project
 
 This project focuses on gaze estimation using fine-tuned and proxy-tuned models.
